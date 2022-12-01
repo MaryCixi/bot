@@ -1,6 +1,10 @@
 #!/usr/bin/python3
 
+import discord
 
+client = discord.Client()
+client.run("bot-émargement#8390") 
+run(bot-émargement#8390)
 
 import datetime 
 import time 
